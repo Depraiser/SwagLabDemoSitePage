@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hEBuLpAkNHRH1jsnLHIyQErvA/kLMnrYZy0jf2NWTzakjsZ9rapMEX1Bps4ayFrBv55+NaQuf2BainYFP+uyew==",
+  "dgSpecHash": "wlzkmmAPUrbyOC5ReG3OtEi47RFF20BXhbjKkNhqUEuAcPrZZ31o2gnF0Cro+qNPVQf2UY88Z+0e2oAE3o1IUQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\faweh\\source\\repos\\SwagLabDemoSite\\SwagLabDemoSite\\SwagLabDemoSite.csproj",
+  "projectFilePath": "C:\\Users\\faweh\\source\\repos\\SwagLabDemoSitePage\\SwagLabDemoSite\\SwagLabDemoSite.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\faweh\\.nuget\\packages\\bodi\\1.5.0\\bodi.1.5.0.nupkg.sha512",
     "C:\\Users\\faweh\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",

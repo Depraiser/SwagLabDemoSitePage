@@ -6843,11 +6843,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\faweh\\source\\repos\\SwagLabDemoSite\\SwagLabDemoSite\\SwagLabDemoSite.csproj",
+      "projectUniqueName": "C:\\Users\\faweh\\source\\repos\\SwagLabDemoSitePage\\SwagLabDemoSite\\SwagLabDemoSite.csproj",
       "projectName": "SwagLabDemoSite",
-      "projectPath": "C:\\Users\\faweh\\source\\repos\\SwagLabDemoSite\\SwagLabDemoSite\\SwagLabDemoSite.csproj",
+      "projectPath": "C:\\Users\\faweh\\source\\repos\\SwagLabDemoSitePage\\SwagLabDemoSite\\SwagLabDemoSite.csproj",
       "packagesPath": "C:\\Users\\faweh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\faweh\\source\\repos\\SwagLabDemoSite\\SwagLabDemoSite\\obj\\",
+      "outputPath": "C:\\Users\\faweh\\source\\repos\\SwagLabDemoSitePage\\SwagLabDemoSite\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\faweh\\AppData\\Roaming\\NuGet\\NuGet.Config",

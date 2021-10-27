@@ -151,10 +151,10 @@ namespace SwagLabDemoSite.PageObject
         }
 
 
-        public void ClickHomeButton()
-        {
-            HomeButton.Click();
-        }
+       // public void ClickHomeButton()
+        //{
+          //  HomeButton.Click();
+        //}
 
 
 
