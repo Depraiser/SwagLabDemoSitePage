@@ -113,7 +113,7 @@ namespace SwagLabDemoSite.StepDefinition
         public void ThenIShouldBeAbleToCompleteMyOrder()
         {
             Thread.Sleep(5000);
-            Assert.That(swagLabDemoSitePage.ClickHomeButtonDispled);
+            Assert.That(swagLabDemoSitePage.IsHomeButtonDisplayed);
         }
     }
 }

@@ -157,6 +157,11 @@ namespace SwagLabDemoSite.PageObject
         //}
 
 
+        public bool IsHomeButtonDisplayed()
+        {
+            return HomeButton.Displayed;
+        }
+
 
     }
 
