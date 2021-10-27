@@ -147,9 +147,6 @@ this.ScenarioInitialize(scenarioInfo);
 #line 20
  testRunner.When("I click on finish", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "When ");
 #line hidden
-#line 21
- testRunner.Then("I should be able to complete my order", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Then ");
-#line hidden
             }
             this.ScenarioCleanup();
         }
